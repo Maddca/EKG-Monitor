@@ -1,0 +1,7 @@
+If you wish to contribute to this project there is only one main issue. If you have read the project writeup then you would know that 
+
+the save preceding function does not work. The code for this function is in the switch for mode case 2 as well as a function at the bottom of the file.
+
+There are also other file that could have some related code. The owner of this project believes the project may have to do with the itteration. 
+
+This project was originally for an electrical engineering class so it is mostly inactive but it would be appreciated if anyone could fix this issue.
